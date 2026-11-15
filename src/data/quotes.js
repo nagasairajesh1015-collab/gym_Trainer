@@ -1,0 +1,15 @@
+export const QUOTES = [
+  { q: 'The last three or four reps is what makes the muscle grow.', by: 'Arnold Schwarzenegger' },
+  { q: 'I hated every minute of training, but I said, “Don’t quit. Suffer now and live the rest of your life as a champion.”', by: 'Muhammad Ali' },
+  { q: 'Iron doesn’t lie. Every rep is an honest answer.', by: 'The IronPath Code' },
+  { q: 'Show up on the days you don’t feel like it. That is where the work gets done.', by: 'The IronPath Code' },
+  { q: 'Strength is built one session at a time, and never in a hurry.', by: 'The IronPath Code' },
+  { q: 'The bar doesn’t care about your excuses.', by: 'The IronPath Code' },
+  { q: 'Discipline is choosing the rack over the couch, again and again.', by: 'The IronPath Code' },
+  { q: 'Soreness fades. Strength stays.', by: 'The IronPath Code' },
+  { q: 'You don’t rise to the weight on the bar. You rise to the habit behind it.', by: 'The IronPath Code' },
+  { q: 'Add a little each week. Years from now it is a different body.', by: 'The IronPath Code' },
+  { q: 'Form first, load second, ego never.', by: 'The IronPath Code' },
+  { q: 'Rest days are part of the program, not a break from it.', by: 'The IronPath Code' },
+  { q: 'Train with purpose. Recover with respect.', by: 'The IronPath Code' },
+];
